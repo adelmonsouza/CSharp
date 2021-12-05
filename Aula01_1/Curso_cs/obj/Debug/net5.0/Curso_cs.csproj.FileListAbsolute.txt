@@ -1,0 +1,16 @@
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.exe
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.deps.json
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.runtimeconfig.json
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.runtimeconfig.dev.json
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.dll
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\ref\Curso_cs.dll
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\bin\Debug\net5.0\Curso_cs.pdb
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.csproj.AssemblyReference.cache
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.AssemblyInfoInputs.cache
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.AssemblyInfo.cs
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.csproj.CoreCompileInputs.cache
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.dll
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\ref\Curso_cs.dll
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.pdb
+C:\Users\adelm\Dropbox\PC\Documents\GitHub\CSharp\Aulas\Aula01_1\Curso_cs\obj\Debug\net5.0\Curso_cs.genruntimeconfig.cache
